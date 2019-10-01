@@ -193,3 +193,5 @@ $RECYCLE.BIN/
 *.iml
 out
 gen
+src/test/
+target/generated-sources/
